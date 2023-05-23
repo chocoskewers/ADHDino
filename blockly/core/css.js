@@ -383,7 +383,7 @@ Blockly.Css.CONTENT = [
 
   /* Category tree in Toolbox. */
   '.blocklyToolboxDiv {',
-  '  background-color: #ddd;',
+  '  background-color: #bcac99;',
   '  overflow-x: visible;',
   '  overflow-y: auto;',
   '  position: absolute;',
@@ -410,7 +410,7 @@ Blockly.Css.CONTENT = [
   '}',
 
   '.blocklyTreeRow:hover {',
-  '  background-color: #e4e4e4;',
+  '  background-color: #9E846D;',
   '}',
 
   '.blocklyTreeSeparator {',
@@ -461,6 +461,7 @@ Blockly.Css.CONTENT = [
   '  font-size: 16px;',
   '  padding: 0 3px;',
   '  vertical-align: middle;',
+  '  color: white;',
   '}',
 
   '.blocklyTreeSelected  {',
